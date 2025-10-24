@@ -1,4 +1,4 @@
-### Student Dropout and Academic Success Analysis - README
+### Student Dropout and Academic Success Analysis 
 
 This project performs an analysis on a dataset that predicts student dropout rates and academic success. The dataset contains various features related to student demographics, academic performance, and financial status. The goal is to predict the outcome of students based on this data (whether they will **Dropout**, **Graduate**, or remain **Enrolled**).
 
